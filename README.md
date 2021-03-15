@@ -6,3 +6,5 @@ On se propose de raisonner à l'aide d'un graphe, dont les noeuds représentent 
 Le code contient deux packages :
 * un package Main, contenant la classe Main
 * un package Structure, contenant les classes ayant permis de gérer la structure de données : BusStop, NodeBStop, BStopGraph, Shortest, Line, Trajectory et Holidays.
+
+Pour exécuter le code, il s'agirait d'exécuter le fichier Main dans un IDE compatible avec le langage Java. Toutefois, comme le code comporte une erreur et est donc en cours de correction, le fichier Main n'est pas complet et n'est donc pas encore exécutable.
