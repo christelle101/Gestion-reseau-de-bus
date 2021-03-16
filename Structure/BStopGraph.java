@@ -2,7 +2,7 @@ package Structure;
 import java.util.*;
 public class BStopGraph extends NodeBStop {
 
-//dans un package qui s'appelle Modele
+
 	
 	/*
 	----------------------------------------
